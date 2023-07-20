@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EksiSozluk.PresentationLayer", "EksiSozluk.PresentationLayer\EksiSozluk.PresentationLayer.csproj", "{CF4D8A0D-40DC-4BED-9DC8-7810F2DA8307}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EksiSozluk.EntityLayer", "EksiSozluk.EntityLayer\EksiSozluk.EntityLayer.csproj", "{82E10AFA-A722-4C99-880C-B7AFA4A4B549}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EksiSozluk.BusinessLayer", "EksiSozluk.BusinessLayer\EksiSozluk.BusinessLayer.csproj", "{994BDDDA-49E3-4CD6-9AFE-F456001D3ADD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EksiSozluk.DataAccessLayer", "EksiSozluk.DataAccessLayer\EksiSozluk.DataAccessLayer.csproj", "{CA76C2AA-7D32-4FEC-9BE0-7CC87580CAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EksiSozluk.CoreLayer", "EksiSozluk.CoreLayer\EksiSozluk.CoreLayer.csproj", "{F5157617-979B-4D79-895B-648BC4E355AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF4D8A0D-40DC-4BED-9DC8-7810F2DA8307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4D8A0D-40DC-4BED-9DC8-7810F2DA8307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4D8A0D-40DC-4BED-9DC8-7810F2DA8307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4D8A0D-40DC-4BED-9DC8-7810F2DA8307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E10AFA-A722-4C99-880C-B7AFA4A4B549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E10AFA-A722-4C99-880C-B7AFA4A4B549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E10AFA-A722-4C99-880C-B7AFA4A4B549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E10AFA-A722-4C99-880C-B7AFA4A4B549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{994BDDDA-49E3-4CD6-9AFE-F456001D3ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994BDDDA-49E3-4CD6-9AFE-F456001D3ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994BDDDA-49E3-4CD6-9AFE-F456001D3ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994BDDDA-49E3-4CD6-9AFE-F456001D3ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA76C2AA-7D32-4FEC-9BE0-7CC87580CAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA76C2AA-7D32-4FEC-9BE0-7CC87580CAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA76C2AA-7D32-4FEC-9BE0-7CC87580CAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA76C2AA-7D32-4FEC-9BE0-7CC87580CAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5157617-979B-4D79-895B-648BC4E355AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5157617-979B-4D79-895B-648BC4E355AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5157617-979B-4D79-895B-648BC4E355AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5157617-979B-4D79-895B-648BC4E355AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E424306-5622-40D3-A1DC-FFD8E84F3E18}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/sefabsbgaaa
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EksiSozluk.PresentationLayer\\EksiSozluk.PresentationLayer.csproj
+		SccProjectName1 = EksiSozluk.PresentationLayer
+		SccLocalPath1 = EksiSozluk.PresentationLayer
+		SccProjectUniqueName2 = EksiSozluk.EntityLayer\\EksiSozluk.EntityLayer.csproj
+		SccProjectName2 = EksiSozluk.EntityLayer
+		SccLocalPath2 = EksiSozluk.EntityLayer
+		SccProjectUniqueName3 = EksiSozluk.BusinessLayer\\EksiSozluk.BusinessLayer.csproj
+		SccProjectName3 = EksiSozluk.BusinessLayer
+		SccLocalPath3 = EksiSozluk.BusinessLayer
+		SccProjectUniqueName4 = EksiSozluk.DataAccessLayer\\EksiSozluk.DataAccessLayer.csproj
+		SccProjectName4 = EksiSozluk.DataAccessLayer
+		SccLocalPath4 = EksiSozluk.DataAccessLayer
+		SccProjectUniqueName5 = EksiSozluk.CoreLayer\\EksiSozluk.CoreLayer.csproj
+		SccProjectName5 = EksiSozluk.CoreLayer
+		SccLocalPath5 = EksiSozluk.CoreLayer
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\obj\Debug\net6.0\EksiSozluk.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\obj\Debug\net6.0\EksiSozluk.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\obj\Debug\net6.0\EksiSozluk.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\obj\Debug\net6.0\EksiSozluk.BusinessLayer.AssemblyInfo.cs
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\obj\Debug\net6.0\EksiSozluk.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\bin\Debug\net6.0\EksiSozluk.BusinessLayer.deps.json
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\bin\Debug\net6.0\EksiSozluk.BusinessLayer.dll
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\bin\Debug\net6.0\EksiSozluk.BusinessLayer.pdb
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\bin\Debug\net6.0\EksiSozluk.DataAccessLayer.dll
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\bin\Debug\net6.0\EksiSozluk.EntityLayer.dll
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\bin\Debug\net6.0\EksiSozluk.DataAccessLayer.pdb
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\bin\Debug\net6.0\EksiSozluk.EntityLayer.pdb
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\obj\Debug\net6.0\EksiSozluk.BusinessLayer.csproj.CopyComplete
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\obj\Debug\net6.0\EksiSozluk.BusinessLayer.dll
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\obj\Debug\net6.0\refint\EksiSozluk.BusinessLayer.dll
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\obj\Debug\net6.0\EksiSozluk.BusinessLayer.pdb
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.BusinessLayer\obj\Debug\net6.0\ref\EksiSozluk.BusinessLayer.dll

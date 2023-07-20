@@ -1,0 +1,14 @@
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.EntityLayer\bin\Debug\net6.0\EksiSozluk.EntityLayer.deps.json
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.EntityLayer\bin\Debug\net6.0\EksiSozluk.EntityLayer.runtimeconfig.json
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.EntityLayer\bin\Debug\net6.0\EksiSozluk.EntityLayer.dll
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.EntityLayer\bin\Debug\net6.0\EksiSozluk.EntityLayer.pdb
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.EntityLayer\obj\Debug\net6.0\EksiSozluk.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.EntityLayer\obj\Debug\net6.0\EksiSozluk.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.EntityLayer\obj\Debug\net6.0\EksiSozluk.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.EntityLayer\obj\Debug\net6.0\EksiSozluk.EntityLayer.AssemblyInfo.cs
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.EntityLayer\obj\Debug\net6.0\EksiSozluk.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.EntityLayer\obj\Debug\net6.0\EksiSozluk.EntityLayer.dll
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.EntityLayer\obj\Debug\net6.0\refint\EksiSozluk.EntityLayer.dll
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.EntityLayer\obj\Debug\net6.0\EksiSozluk.EntityLayer.pdb
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.EntityLayer\obj\Debug\net6.0\EksiSozluk.EntityLayer.genruntimeconfig.cache
+C:\Users\Huseyin_Aydin\Source\Workspaces\EksiSozluk\Casgem_EksiSozluk\EksiSozluk.EntityLayer\obj\Debug\net6.0\ref\EksiSozluk.EntityLayer.dll

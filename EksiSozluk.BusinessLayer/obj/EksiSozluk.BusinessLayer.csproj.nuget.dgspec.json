@@ -1,0 +1,251 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.BusinessLayer\\EksiSozluk.BusinessLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.BusinessLayer\\EksiSozluk.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.BusinessLayer\\EksiSozluk.BusinessLayer.csproj",
+        "projectName": "EksiSozluk.BusinessLayer",
+        "projectPath": "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.BusinessLayer\\EksiSozluk.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Huseyin_Aydin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Huseyin_Aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.DataAccessLayer\\EksiSozluk.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.DataAccessLayer\\EksiSozluk.DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.6.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.DataAccessLayer\\EksiSozluk.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.DataAccessLayer\\EksiSozluk.DataAccessLayer.csproj",
+        "projectName": "EksiSozluk.DataAccessLayer",
+        "projectPath": "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.DataAccessLayer\\EksiSozluk.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Huseyin_Aydin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Huseyin_Aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.EntityLayer\\EksiSozluk.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.EntityLayer\\EksiSozluk.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.EntityLayer\\EksiSozluk.EntityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.EntityLayer\\EksiSozluk.EntityLayer.csproj",
+        "projectName": "EksiSozluk.EntityLayer",
+        "projectPath": "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.EntityLayer\\EksiSozluk.EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\Huseyin_Aydin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Huseyin_Aydin\\Source\\Workspaces\\EksiSozluk\\Casgem_EksiSozluk\\EksiSozluk.EntityLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Huseyin_Aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
